@@ -1,4 +1,4 @@
-**FERMat** is a foundation model developed for the purposes of molecular and material property prediction, and generation of ML interatomic potentials for modeling atomic behavior.
+**OMG** is a Python package for machine-learning-powered materials discovery.
 
 <br><br>
 * * *
