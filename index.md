@@ -1,6 +1,7 @@
 **OMG** is a Python package for machine-learning-powered materials discovery.
 
 <br><br>
+Code is maintained on [the OMG GitHub repository](https://github.com/FERMat-ML/OMG)
 * * *
 
 A project of [the KIM-Initiative](https://kim-initiative.org/)  

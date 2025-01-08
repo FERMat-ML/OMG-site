@@ -3,12 +3,12 @@
     /* Align items in a row */
     align-items: center;
     /* Vertically center the items */
-    gap: 15px;
+    /* gap: 15px; */
     /* Space between the image and title */
 }
 
 #header-container img {
-    height: 50px;
+    height: 80px;
     /* Ensure the logo stays consistent in size */
 }
 
