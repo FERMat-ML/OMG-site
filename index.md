@@ -1,7 +1,5 @@
-**OMG** is a Python package for machine-learning-powered materials discovery.
-
+**OMG** is a generative model for crystal structure prediction and de novo generation of atomic crystals.
 <br><br>
-Code is maintained on [the OMG GitHub repository](https://github.com/FERMat-ML/OMG)
 * * *
 
 A project of [the KIM-Initiative](https://kim-initiative.org/)  
